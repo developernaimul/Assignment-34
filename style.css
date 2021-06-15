@@ -125,7 +125,10 @@ ul.primary-menu li ul li a::after{
 
 
 
-
+body .bannar .container-fluid{
+    overflow: hidden;
+    max-width: 1360px !important;
+}
 
 
 
